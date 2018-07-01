@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="app_name">AlcQuizApp</string>
+
+
+    <string name="intro"> BIBLE QUIZ!!</string>
+    <!-- Question one-->
+    <string name="Quiz1_textView"> How old was David when he was anointed King of Isreal? </string>
+    <string name="quiz1_radioButton1">30 years</string>
+    <string name="quiz1_radioButton2">40 years</string>
+    <string name="quiz1_radioButton3">50 years</string>
+
+    <!--Question two-->
+    <string name="quiz2_editText"> Who said, "...as for me and my house, we will serve the Lord"?</string>
+
+    <!--Question three-->
+    <string name="quiz3_textView"> Which disciples witnessed Jesus\' transfiguration?</string>
+    <string name="quiz3_checkBox1">Peter</string>
+    <string name="quiz3_checkBox2">James</string>
+    <string name="quiz3_checkBox3">John</string>
+
+    <!--QuestionFour-->
+    <string name="Quiz4_textView"> Who told Naaman to wash in the river Jordan seven times? </string>
+    <string name="quiz4_radioButton1">Peter</string>
+    <string name="quiz4_radioButton2">Elijah</string>
+    <string name="quiz4_radioButton3">Elisha</string>
+
+    <!--Question five-->
+    <string name="quiz5_editText"> What is the name of the place where jacob slept and dreamed of Jacob\'s ladder?</string>
+
+    <!--questions tag-->
+    <string name="quiz1">Question One</string>
+    <string name="quiz2">Question Two</string>
+    <string name="quiz3">Question Three</string>
+    <string name="quiz4">Question Four</string>
+    <string name="quiz5">Question Five</string>
+    <string name="quiz6">Question Six</string>
+    <string name="quiz7">Question Seven</string>
+    <string name="quiz8">Question Eight</string>
+
+
+    <!--Question six-->
+    <string name="quiz6_textView"> After His resurrection, where did Jesus walk with some disciples?</string>
+    <string name="quiz6_radioButton1">on the road to Emmaus</string>
+    <string name="quiz6_radioButton2">in the street of Jerusalem</string>
+    <string name="quiz6_radioButton3">Damascus</string>
+
+    <!--Question seven-->
+    <string name="quiz7_textView"> Who betrayed Jesus Christ?</string>
+    <string name="quiz7_checkBox1">Peter</string>
+    <string name="quiz7_checkBox2">James</string>
+    <string name="quiz7_checkBox3">Judas</string>
+
+    <!--Question eight-->
+    <string name="quiz8_textView">Prophet Elijah called down fire from heaven, contesting the prophets of Baal?</string>
+    <string name="quiz8_radioButton1">True</string>
+    <string name="quiz8_radioButton2">False</string>
+
+
+    <!--Buttons-->
+    <string name="submit_answer_button">SUBMIT</string>
+    <string name="reset_button">RESET</string>
+    <string name="start_quiz">START</string>
+
+       <!--welcome page-->
+    <string name="welcome">Welcome to ALC Quiz App!!</string>
+    <string name="start">Click START to commence.</string>
+
+    <!--hint text-->
+    <string name="edit_hint">Answer here</string>
+
+</resources>
+

@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--style for TextViews-->
+    <style name="textViews">
+        <item name="android:textColor">#0b0101</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="question_tag">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#2020ce</item>
+    </style>
+
+    <!--style for checkboxes-->
+    <style name="checkBox">
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+
+    <!--style for radioButton-->
+    <style name="radioButton">
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+    </style>
+
+    <!--style for card view-->
+    <style name="cardView">
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="cardCornerRadius">5dp</item>
+        <item name="cardElevation">8dp</item>
+    </style>
+
+       <!--style for intro text-->
+    <style name="intro_text">
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+      <!--edit text style  -->
+    <style name="edit_text">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textColor">#8f8989</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+</resources>
+
+
